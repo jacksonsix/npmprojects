@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonsix/npmprojects.git"
+  },
+  "author": "jacksonsix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacksonsix/npmprojects/issues"
+  },
+  "homepage": "https://github.com/jacksonsix/npmprojects#readme"
 }
